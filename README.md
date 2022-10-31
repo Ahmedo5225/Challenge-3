@@ -22,3 +22,5 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 https://ahmedo5225.github.io/
+
+https://user-images.githubusercontent.com/114963939/199127699-17b7e7e5-01ec-4daa-bf36-459940758286.png
